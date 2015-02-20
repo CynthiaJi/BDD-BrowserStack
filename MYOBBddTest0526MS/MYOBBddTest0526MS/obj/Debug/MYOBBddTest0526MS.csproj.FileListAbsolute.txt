@@ -1,0 +1,14 @@
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\MYOBBddTest0526MS.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\MYOBBddTest0526MS.pdb
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\nunit.core.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\nunit.framework.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\TechTalk.SpecFlow.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\WebDriver.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\WebDriver.Support.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\nunit.core.interfaces.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\nunit.framework.xml
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\WebDriver.xml
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\WebDriver.Support.xml
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\obj\Debug\MYOBBddTest0526MS.dll
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\obj\Debug\MYOBBddTest0526MS.pdb
+C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\obj\Debug\MYOBBddTest0526MS.csprojResolveAssemblyReference.cache

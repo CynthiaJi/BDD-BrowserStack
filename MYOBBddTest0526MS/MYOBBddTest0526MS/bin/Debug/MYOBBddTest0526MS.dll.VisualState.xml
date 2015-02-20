@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\MYOBBddTest0526MS.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\MYOBBddTest0526MS.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Joseph\VSProjects\MYOBBddTest0526MS\MYOBBddTest0526MS\bin\Debug\MYOBBddTest0526MS.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]MYOBBddTest0526MS" Expanded="true" />
+    <Node UniqueName="[0-1004]MYOBBddTest0526MS.FeatureFiles" Expanded="true" />
+    <Node UniqueName="[0-1000]MYOBBddTest0526MS.FeatureFiles.MYOBHomePageNavFeature" Expanded="true" />
+  </Nodes>
+</VisualState>
