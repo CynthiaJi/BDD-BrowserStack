@@ -1,0 +1,7 @@
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\obj\Debug\FlexiSchoolNumberTest.csprojResolveAssemblyReference.cache
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\bin\Debug\FlexiSchoolNumberTest.dll
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\bin\Debug\FlexiSchoolNumberTest.pdb
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\bin\Debug\flexischool3.dll
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\bin\Debug\flexischool3.pdb
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\obj\Debug\FlexiSchoolNumberTest.dll
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\FlexiSchoolNumberTest\obj\Debug\FlexiSchoolNumberTest.pdb

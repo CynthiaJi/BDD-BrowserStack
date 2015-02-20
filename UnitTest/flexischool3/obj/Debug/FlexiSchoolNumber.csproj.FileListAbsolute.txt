@@ -1,0 +1,4 @@
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\flexischool3\obj\Debug\flexischool3.dll
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\flexischool3\obj\Debug\flexischool3.pdb
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\flexischool3\bin\Debug\flexischool3.dll
+c:\users\cynthia\documents\visual studio 2013\Projects\flexischool3\flexischool3\bin\Debug\flexischool3.pdb
